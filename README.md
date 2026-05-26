@@ -3,11 +3,6 @@
 ![Browsly Banner](./banner.png)
 
 Official public download and release repository for Browsly.
-
-## Desktop App
-
-![App Preview](./assets/app-preview.png)
-
 Browsly is a visual browser automation builder for scraping, QA testing, repetitive browser workflows, and automation.
 
 ## Features
